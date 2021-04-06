@@ -1,6 +1,7 @@
 # ads-for-days
 
 idk how importing works for bluestacks
+BLUESTACKS ONLY
 
 Merge the four macros in the correct order
 Loop part 1 five times
