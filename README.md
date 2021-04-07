@@ -6,15 +6,18 @@ BLUESTACKS ONLY
 Merge the four macros in the correct order
 Loop part 1 five times
 Loop part 2 three times
-Part 3 and 4 one time
+Loop part 3 one time
+Loop part 5 one time
+Loop part 4 one time
+Loop part 5 one time
 
 Watches pretty much every single ad in the game
 Does NOT watch the following: Coupling, Merit, Heaven sect, Rift, Earth sect (greeting and promotion), Praise land, Fortune land
 Encounter, Alliance Affair, Monthly Event, Fishing.
 
 DOES WATCH THE FOLLOWING
-16x Nochi pack
-13x Primordial pack
+20x Nochi pack
+15x Primordial pack
 8x Boutique
 8x Topup
 8x Talisman
