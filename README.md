@@ -3,13 +3,15 @@
 idk how importing works for bluestacks
 BLUESTACKS ONLY
 
-Merge the four macros in the correct order
-Loop part 1 five times
-Loop part 2 three times
-Loop part 3 one time
-Loop part 5 one time
-Loop part 4 one time
-Loop part 5 one time
+Merge the  macros in this order (recommended)
+Loop cruiseblock one time
+Loop ad1 five times
+Loop ad2 three times
+Loop ad3 one time
+Loop ad5 one time
+Loop ad4 five times
+Loop ad5 one time
+Loop cruiseblock one time
 
 Watches pretty much every single ad in the game
 Does NOT watch the following: Coupling, Merit, Heaven sect, Rift, Earth sect (greeting and promotion), Praise land, Fortune land
@@ -28,6 +30,8 @@ DOES WATCH THE FOLLOWING
 
 BEFORE RUNNING THE MACRO, USE SKIP TICKETS ON COUPLING, MERIT, EARTH SECT GREETING, MONTHLY EVENT, ALLIANCE AFFAIR, FISHING IF F2P, then whatever you want. 
 
-SHIELD BEAST CRUISE. EXIT AND REENTER HEAVEN, THEN WAIT A FEW SECONDS BEFORE STARTING THE MACRO. 
+EXIT AND REENTER HEAVEN, THEN WAIT A FEW SECONDS BEFORE STARTING THE MACRO. Cruiseblock will shield beast cruise for the duration of the macro, then unshiel after done.
 
-MACRO TAKES AROUND 1 HOUR 10 MINUTES TO FINISH
+IF YOU HAVE SHIELD BEAST CRUISE ON BY DEFAULT don't add the cruiseblock macro
+
+MACRO TAKES AROUND 1 HOUR 20 MINUTES TO FINISH
