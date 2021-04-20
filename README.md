@@ -5,12 +5,12 @@ BLUESTACKS ONLY
 
 Merge the  macros in this order (recommended)
 Loop cruiseblock one time
-Loop ad1 five times
-Loop ad2 three times
-Loop ad3 one time
-Loop ad5 one time
-Loop ad4 five times
-Loop ad5 one time
+Loop new1 five times
+Loop new2 three times
+Loop new3 one time
+Loop new5 one time
+Loop new4 five times
+Loop new5 one time
 Loop cruiseblock one time
 
 Watches pretty much every single ad in the game
