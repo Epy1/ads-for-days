@@ -4,16 +4,16 @@ idk how importing works for bluestacks
 BLUESTACKS ONLY
 
 Merge the  macros in this order (recommended)
-Loop cruiseblock one time
-Loop hideevents one time
-Loop new1 five times
-Loop new2 three times
-Loop new3 one time
-Loop new5 one time
-Loop new4 five times
-Loop new5 one time
-Loop hideevents one time
-Loop cruiseblock one time
+1. Loop cruiseblock one time
+2. Loop hideevents one time
+3. Loop new1 five times
+4. Loop new2 three times
+5. Loop new3 one time
+6. Loop new5 one time
+7. Loop new4 five times
+8. Loop new5 one time
+9. Loop hideevents one time
+10. Loop cruiseblock one time
 
 Watches pretty much every single ad in the game
 Does NOT watch the following: Coupling, Merit, Heaven sect, Rift, Earth sect (greeting and promotion), Praise land, Fortune land
