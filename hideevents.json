@@ -1,0 +1,32 @@
+{
+  "TimeCreated": "20210428T103842",
+  "Name": "hideevents",
+  "Events": [
+    {
+      "Timestamp": 3115,
+      "X": 3.7,
+      "Y": 20.72,
+      "Delta": 0,
+      "EventType": "MouseDown"
+    },
+    {
+      "Timestamp": 3222,
+      "X": 3.7,
+      "Y": 20.72,
+      "Delta": 0,
+      "EventType": "MouseUp"
+    }
+  ],
+  "LoopType": "TillLoopNumber",
+  "LoopNumber": 1,
+  "LoopTime": 0,
+  "LoopInterval": 0,
+  "Acceleration": 1.0,
+  "PlayOnStart": false,
+  "DonotShowWindowOnFinish": false,
+  "RestartPlayer": false,
+  "RestartPlayerAfterMinutes": 60,
+  "ShortCut": "",
+  "UserName": "",
+  "MacroId": ""
+}
